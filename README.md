@@ -1,4 +1,4 @@
-# calculoarea
+# calculoarea (README.md incompleto)
 
 Act3
 calculoarea
